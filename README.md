@@ -28,8 +28,7 @@ Configuracion (Archivo "application.properties"):
 	app.max-comments=4
 
 Compilacion:
--Compilar y ejecutar con test en modo dev desde la terminal: **mvn clean install quarkus:dev**
-o sin test: **mvn clean install -DskipTests quarkus:dev**
+-Compilar y ejecutar con test en modo dev desde la terminal: **mvn clean install quarkus:dev** o sin test: **mvn clean install -DskipTests quarkus:dev**
 -Esto inicia la aplicacion en: **http://localhost:8080**
 
 Endpoints:
